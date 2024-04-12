@@ -13,5 +13,5 @@ My expertise spans a wide array of skills essential for effective data analysis,
 Discover the depth of my analysis through these snapshots of my dashboards:
 
 ![Screenshot 2024-04-12 212851](https://github.com/mohita98/Insititutional-Analysis/assets/77202377/096258e4-0bc3-40a3-8598-9fcd88c84546)
-![Screenshot 2024-04-12 212902](https://github.com/mohita98/Insititutional-Analysis/assets/77202377/ca391913-71e4-44d5-94ab-53c2e6dd516e)
+![Screenshot 2024-04-12 223902](https://github.com/mohita98/Insititutional-Analysis/assets/77202377/be865f26-fa42-41f6-a616-e67a95ecec44)
 ![Screenshot 2024-04-12 212913](https://github.com/mohita98/Insititutional-Analysis/assets/77202377/4de6f30d-b03b-41df-99f0-ec784fc1e6c2)
