@@ -1,6 +1,6 @@
 # Institutional Analysis
 
-## Overview 
+## Overview 🔍
 Welcome to my GitHub! This repository hosts my latest project, focusing on comprehensive college data analysis. 
 
 ## Project Description 📊
@@ -12,7 +12,7 @@ This project delves into the intricate dynamics of higher education institutions
 - Power BI: Advanced visualization tool used for processing and visualizing data.
 - Microsoft Fabric Lakehouse: Source of meticulously processed data.
 
-### Techniques Employed 🔍
+### Techniques Employed 
 - Robust Data Modeling: Ensured accurate representation of complex educational datasets.
 - Data Visualization Methodologies: Crafted insightful dashboards for clear understanding.
 
